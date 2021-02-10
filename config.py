@@ -8,5 +8,5 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 DEBUG = True
 
 # Connect DB
-SQLALCHEMY_DATABASE_URI = 'postgres://tqxpnqkcoldjij:aa3e0864f28b3ecf8b5969b9a56b9dcd9187e2d1c7144637a51c445583819d93@ec2-54-211-77-238.compute-1.amazonaws.com:5432/dfo0orcohh03fi'
+SQLALCHEMY_DATABASE_URI = 'postgres://zsxjshvfglglbo:983edb782a09a4b023ea6c9c3f4ba38decbb998363171c29896d4e9bd895b271@ec2-35-174-118-71.compute-1.amazonaws.com:5432/d3gk75c78t670j'
 SQLALCHEMY_TRACK_MODIFICATIONS = False
